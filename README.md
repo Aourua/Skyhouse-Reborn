@@ -43,4 +43,4 @@
 #
 
 # **How much money do I need for this?**
-## Any ammount is good but over 100m purse is reccomended
+## Any ammount is good but over 100m purse is recommended
